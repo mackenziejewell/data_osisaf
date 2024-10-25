@@ -6,6 +6,9 @@ Scripts for downloading, opening, read data files from EUMETSAT Ocean and Sea Ic
 Navigate to folder in terminal and run:
 conda env create --file=environment.yml
 
+To update environment file after modifying packages:
+conda env export > environment.yml
+
 # icedrift_lr.py
 
 Global Low Resolution Sea Ice Drift OSI-405-c
