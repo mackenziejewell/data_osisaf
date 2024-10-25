@@ -1,3 +1,11 @@
+
+# data_OSISAF
+Scripts for downloading, opening, read data files from EUMETSAT Ocean and Sea Ice Satellite Application Facility (OSI SAF)
+
+# To build matching environment:
+Navigate to folder in terminal and run:
+conda env create --file=environment.yml
+
 # icedrift_lr.py
 
 Global Low Resolution Sea Ice Drift OSI-405-c
