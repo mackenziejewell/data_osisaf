@@ -168,6 +168,7 @@ dependencies:
   - numexpr=2.8.7=py312h7d6adbd_0
   - numpy=1.26.4=py312h7d6adbd_0
   - numpy-base=1.26.4=py312hbb3573c_0
+  - openblas=0.3.28=openmp_hba01982_0
   - openjpeg=2.5.2=hbf2204d_0
   - openssl=3.3.2=hd23fc13_0
   - orc=2.0.1=h5747287_0
@@ -187,6 +188,7 @@ dependencies:
   - prometheus_client=0.14.1=py312hecd8cb5_0
   - prompt-toolkit=3.0.43=py312hecd8cb5_0
   - prompt_toolkit=3.0.43=hd3eb1b0_0
+  - protobuf=4.25.3=py312h43dadc6_0
   - psutil=5.9.0=py312h6c40b1e_0
   - pthread-stubs=0.4=h00291cd_1002
   - ptyprocess=0.7.0=pyhd3eb1b0_2
@@ -222,6 +224,7 @@ dependencies:
   - setuptools=75.1.0=pyhd8ed1ab_0
   - shapely=2.0.5=py312h4c0b7fc_0
   - sip=6.7.12=py312hcec6c5f_0
+  - siphon=0.9=pyhd8ed1ab_2
   - six=1.16.0=pyh6c4a22f_0
   - snappy=1.2.1=he1e6707_0
   - sniffio=1.3.0=py312hecd8cb5_0
