@@ -270,7 +270,7 @@ Latest recorded update:
     # times t0, t1 listed in time bounds
     # but with different satellite overpass times, should adjust t0, t1 by dt0, dt1
     # but when I have inspected these variables, they are all 0 or 'NaT' (not a time)
-    # so I'm not sure how to adjust for this 9Will figure out later!)
+    # so I'm not sure how to adjust for this (Will figure out later!)
 
 
 
